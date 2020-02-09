@@ -1,4 +1,4 @@
-package com.test.restservice;
+package com.test.restservice.controllers.domain.models;
 
 import lombok.Data;
 

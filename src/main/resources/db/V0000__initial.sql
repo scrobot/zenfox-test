@@ -15,5 +15,6 @@ CREATE TABLE domains (
   name VARCHAR(255) NOT NULL
 );
 
+-- Dirty fix as exceptional case, because it's h2 migration :) and not a production
 INSERT INTO domains (name) VALUES
-  ('existing');
+  ('existing.com');

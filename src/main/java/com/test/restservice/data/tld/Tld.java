@@ -1,4 +1,4 @@
-package com.test.restservice.model;
+package com.test.restservice.data.tld;
 
 import lombok.*;
 
